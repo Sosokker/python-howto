@@ -6,5 +6,3 @@ by Sirin Puenggun
   * [Asynchronous Programming with asyncio](asynchronous.md)
   * [Parallelism with multiprocessing](multiprocessing.md)
   * [Combining Concurrency and Parallelism](combining.md)
-
-Try to add conflict here! Let's make conflict
