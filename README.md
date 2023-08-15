@@ -5,4 +5,6 @@ by Sirin Puenggun
 * [Introduction to Concurrency and Parallelism](introduction.md)
   * [Asynchronous Programming with asyncio](asynchronous.md)
   * [Parallelism with multiprocessing](multiprocessing.md)
-  * [Combining Concurrency and Parallelism](combining.md)
+  * [Combining Concurrency and Parallelism](combin <- Conflict Here too!
+
+This is conflict!
